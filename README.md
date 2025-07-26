@@ -1,7 +1,7 @@
 
 🎓 Computer Science Enthusiast | Aspiring Full-Stack Developer  
 💡 Passionate about problem solving, clean code, and building impactful projects  
-📚 Completed structured courses in C, C++, DSA, OOP, Web Development, and Python  
+📚 Completed structured courses in C, C++, DSA, OOP,Data Structure,Algorithm Web Development, and Python  
 🛠 Skilled in:  
 - Frontend: HTML, CSS, Tailwind, JavaScript  
 - Backend: Python, Django, REST API  
