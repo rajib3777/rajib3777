@@ -3,7 +3,7 @@
 💡 Passionate about problem solving, clean code, and building impactful projects  
 📚 Completed structured courses in C, C++, DSA, OOP,Data Structure,Algorithm Web Development, and Python  
 🛠 Skilled in:  
-- Frontend: HTML, CSS, Tailwind, JavaScript  
+- Frontend: React, HTML, CSS, Tailwind, JavaScript, Bootstrap 
 - Backend: Python, Django, REST API  
 - Tools: Git, GitHub, MySQL, PostgreSQL, Cloudinary, VS Code  
 🌐 Currently working on real-world web applications using Django and React  
