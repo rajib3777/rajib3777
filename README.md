@@ -1,61 +1,73 @@
-<h1 align="center">Hi, I'm Rajib 👋</h1>
-<h3 align="center">Computer Science Enthusiast | Aspiring Full-Stack Developer</h3>
+<!-- Header -->
+<br/>
+<h1 align="center">Hi, I'm <strong>Rajib</strong> 👋</h1>
+<p align="center">
+  <strong>Full-Stack Developer (Django + React)</strong><br/>
+  Crafting clean, scalable & production-ready web applications
+</p>
+<br/>
 
 ---
 
 ## 🚀 About Me  
-- 🎓 Computer Science enthusiast focused on full-stack development  
-- 💡 Passionate about problem solving, clean code & scalable architecture  
-- 📚 Completed structured learning in **C, C++, DSA, OOP, Data Structures, Algorithms, Web Development & Python**  
-- 🌱 Currently mastering **REST APIs, JavaScript Projects & Deployment**  
-- 🤝 Open to collaborating on **open-source** & **freelance** projects  
+I’m a passionate **Computer Science enthusiast** and an aspiring **Full-Stack Developer** focused on building scalable, modern, and impactful web applications.
+
+- 🎓 Strong foundation: **C, C++, Python, OOP, DSA, Algorithms**
+- 💡 Enjoy solving real-world problems with clean code and solid architecture
+- 🌱 Currently mastering: **REST APIs, JavaScript Projects, Deployment**
+- 🤝 Open to **open-source**, **team projects**, and **freelance work**
 
 ---
 
-## 🛠 Technical Skills  
+## 🛠 Tech Stack
 
-### **Frontend Development**
-- **HTML5**, **CSS3**, **JavaScript (ES6)**  
-- **React**, **Tailwind CSS**, **Bootstrap**
+### **Frontend**
+- HTML5, CSS3, JavaScript (ES6)
+- React.js, Tailwind CSS, Bootstrap
 
-### **Backend Development**
-- **Python**, **Django**, **REST API Development**
+### **Backend**
+- Python, Django, REST API
 
 ### **Databases**
-- **MySQL**, **PostgreSQL**
+- MySQL, PostgreSQL
 
-### **Tools & Platforms**
-- **Git**, **GitHub**, **VS Code**, **Cloudinary**, **Linux**, **Postman**
-
----
-
-## 🌐 Current Focus
-- Building production-level apps using **Django + React**  
-- API performance optimization  
-- Deployment (Linux server, Railway, Render, Netlify, Vercel)  
+### **Tools**
+- Git, GitHub, VS Code  
+- Linux (Ubuntu), Postman  
+- Cloudinary, CI/CD basics
 
 ---
 
-## 📊 GitHub Analytics  
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajib3777&show_icons=true&theme=react&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajib3777&layout=compact&theme=react&hide_border=true" />
-</p>
+## 🌐 What I’m Working On  
+- Production-level **Django + React** full-stack applications  
+- API performance, scalability & backend architecture  
+- Deployment using **Linux servers, Render, Railway, Netlify, Vercel**
 
 ---
 
-## 🐍 Contribution Activity  
-<p align="center">
-  <img src="https://github.com/rajib3777/rajib3777/blob/output/github-contribution-grid-snake.svg" />
-</p>
+## 📊 GitHub Insights  
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajib3777&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajib3777&layout=compact&theme=transparent&hide_border=true" />
+</div>
 
 ---
 
-## 📫 Connect With Me  
-**Email:** your-email-here  
-**LinkedIn:** your-link-here  
-**Portfolio:** your-portfolio-link  
+## 📈 Contribution Graph  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rajib3777/rajib3777/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
 
 ---
 
-<p align="center">✨ Always learning. Always building. ✨</p>
+## 🔗 Connect With Me  
+- **Email:** rajibulislam3777@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/md-rajibul-islam-shuvo-3235121b3/  
+- **Portfolio:** your-portfolio-link-here  
+
+---
+
+<br/>
+<p align="center"><i>“Code. Learn. Build. Repeat.”</i></p>
+<p align="center">✨ Always learning | Always building ✨</p>
+<br/>
