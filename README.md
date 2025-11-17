@@ -53,13 +53,6 @@ I’m a passionate **Computer Science enthusiast** and an aspiring **Full-Stack 
 
 ---
 
-## 📈 Contribution Graph  
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rajib3777/rajib3777/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
 ## 🔗 Connect With Me  
 - **Email:** rajibulislam3777@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/md-rajibul-islam-shuvo-3235121b3/  
