@@ -56,7 +56,7 @@ I’m a passionate **Computer Science enthusiast** and an aspiring **Full-Stack 
 ## 🔗 Connect With Me  
 - **Email:** rajibulislam3777@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/md-rajibul-islam-shuvo-3235121b3/  
-- **Portfolio:** your-portfolio-link-here  
+- **Portfolio:** https://portfolioteck.vercel.app/
 
 ---
 
