@@ -56,16 +56,7 @@ I’m a passionate **Computer Science enthusiast** and an aspiring **Full-Stack 
 
 ---
 
-## 📊 GitHub Analytics
 
-### 🔥 GitHub Stats  
-> **Replace** `your-vercel-app-name` **with your actual Vercel deployment.**
-
-<p align="center">
-  <img height="170" src="https://your-vercel-app-name.vercel.app/api?username=rajib3777&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  
-  <img height="170" src="https://your-vercel-app-name.vercel.app/api/top-langs/?username=rajib3777&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
