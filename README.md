@@ -46,10 +46,17 @@ I’m a passionate **Computer Science enthusiast** and an aspiring **Full-Stack 
 ---
 
 ## 📊 GitHub Insights  
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajib3777&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajib3777&layout=compact&theme=transparent&hide_border=true" />
-</div>
+<p align="center">
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api?username=rajib3777&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=7200" 
+  />
+  
+  <img 
+    height="170" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajib3777&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=7200" 
+  />
+</p>
 
 ---
 
