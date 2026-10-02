@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>MD. RAJIBUL ISLAM SHUVO - CV</title>
+<style>
+  @page {
+    size: A4 portrait;
+    margin: 10mm 12mm 10mm 12mm;
+  }
+  * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    color: #1a1a1a;
+    background-color: #ffffff;
+    font-size: 8.4pt;
+    line-height: 1.28;
+  }
+  .container {
+    width: 100%;
+    max-width: 100%;
+  }
+  header {
+    text-align: center;
+    border-bottom: 1.5px solid #0f172a;
+    padding-bottom: 4px;
+    margin-bottom: 6px;
+  }
+  h1 {
+    font-size: 15.5pt;
+    font-weight: 800;
+    letter-spacing: 0.8px;
+    color: #0f172a;
+    text-transform: uppercase;
+  }
+  .title {
+    font-size: 9.2pt;
+    font-weight: 700;
+    color: #2563eb;
+    margin-top: 1px;
+    letter-spacing: 0.3px;
+  }
+  .contact-info {
+    font-size: 8pt;
+    color: #475569;
+    margin-top: 3px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .contact-info a {
+    color: #1e40af;
+    text-decoration: none;
+  }
+  section {
+    margin-bottom: 5px;
+  }
+  .section-title {
+    font-size: 8.8pt;
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #0f172a;
+    border-bottom: 1px solid #cbd5e1;
+    padding-bottom: 1px;
+    margin-bottom: 4px;
+    letter-spacing: 0.6px;
+  }
+  p {
+    margin-bottom: 2px;
+    text-align: justify;
+  }
+  ul {
+    padding-left: 14px;
+    margin-top: 2px;
+    margin-bottom: 3px;
+  }
+  li {
+    margin-bottom: 1.5px;
+  }
+  .item-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 8.4pt;
+  }
+  .item-title {
+    font-weight: 700;
+    color: #0f172a;
+  }
+  .item-role {
+    font-weight: 600;
+    color: #334155;
+  }
+  .item-date {
+    font-size: 7.8pt;
+    font-weight: 600;
+    color: #475569;
+    white-space: nowrap;
+  }
+  a {
+    color: #2563eb;
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: underline;
+  }
+  .skills-grid {
+    display: grid;
+    grid-template-columns: auto 1fr;
+    row-gap: 1.5px;
+    column-gap: 6px;
+    font-size: 8.1pt;
+  }
+  .skill-label {
+    font-weight: 700;
+    color: #1e293b;
+    white-space: nowrap;
+  }
+  .skill-value {
+    color: #334155;
+  }
+  .edu-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    font-size: 8.2pt;
+    margin-bottom: 1px;
+  }
+  .compact-list li {
+    margin-bottom: 1px;
+  }
+  @media screen {
+    body {
+      background: #f1f5f9;
+      padding: 15px;
+    }
+    .container {
+      background: #fff;
+      max-width: 210mm;
+      min-height: 297mm;
+      margin: 0 auto;
+      padding: 10mm 12mm;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+    .print-bar {
+      max-width: 210mm;
+      margin: 0 auto 12px auto;
+      text-align: right;
+    }
+    .print-btn {
+      background: #2563eb;
+      color: #fff;
+      padding: 8px 16px;
+      border: none;
+      border-radius: 4px;
+      font-weight: 600;
+      cursor: pointer;
+      font-size: 9pt;
+    }
+  }
+  @media print {
+    .print-bar {
+      display: none;
+    }
+  }
+</style>
+</head>
+<body>
+
+<div class="print-bar">
+  <button class="print-btn" onclick="window.print()">Print / Save as PDF</button>
+</div>
+
+<div class="container">
+  <header>
+    <h1>MD. RAJIBUL ISLAM SHUVO</h1>
+    <div class="title">FULL-STACK DEVELOPER & AUTOMATION ENGINEER</div>
+    <div class="contact-info">
+      <span>Dhaka, Bangladesh</span> •
+      <span><a href="mailto:rajibulislam3777@gmail.com">rajibulislam3777@gmail.com</a></span> •
+      <span>Portfolio: <a href="http://72.62.194.36/" target="_blank">72.62.194.36</a></span> •
+      <span>GitHub: <a href="https://github.com/rajib3777" target="_blank">github.com/rajib3777</a></span>
+    </div>
+  </header>
+
+  <section>
+    <div class="section-title">Professional Summary</div>
+    <p>
+      Results-driven Full-Stack Developer and Automation Engineer specializing in Python, Django, React.js, and PostgreSQL. Proven track record in designing scalable RESTful APIs, high-performance web applications, and custom automation pipelines. Experienced in delivering high-stakes solutions ranging from tactical simulation systems for Bangladesh Army (BIPSOT) to international programmatic SEO workflows (2,000+ pages) and production enterprise platforms.
+    </p>
+  </section>
+
+  <section>
+    <div class="section-title">Technical Skills</div>
+    <div class="skills-grid">
+      <div class="skill-label">Backend:</div>
+      <div class="skill-value">Python, Django, Django REST Framework (DRF), Celery, Redis, RESTful APIs, WebSockets, C, C++</div>
+      <div class="skill-label">Frontend:</div>
+      <div class="skill-value">React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Bootstrap, Responsive UI Design</div>
+      <div class="skill-label">Databases & CS:</div>
+      <div class="skill-value">PostgreSQL, MySQL, Database Indexing, Data Structures & Algorithms, Object-Oriented Programming (OOP)</div>
+      <div class="skill-label">Automation & DevOps:</div>
+      <div class="skill-value">Python Automation, Programmatic SEO, Web Scraping, Cron Jobs, Git, GitHub, Postman, Linux (Ubuntu), Docker</div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title">Professional Experience</div>
+    
+    <div>
+      <div class="item-header">
+        <div><span class="item-title">Code Astro</span> — <span class="item-role">Software Developer</span></div>
+        <div class="item-date">August 2025 – Present | Dhaka</div>
+      </div>
+      <ul class="compact-list">
+        <li>Developed a tactical <strong>Decision-Making Simulation Game</strong> for <strong>Bangladesh Army (BIPSOT)</strong> to support operational training and strategic scenario analysis.</li>
+        <li>Engineered an automated programmatic generation engine for <a href="https://servicetechnicbelgium.be/" target="_blank">Service Technic Belgium</a>, successfully generating and deploying <strong>2,000+ optimized SEO web pages</strong>.</li>
+        <li>Built and deployed multiple production platforms: <a href="https://www.livingart.com.bd" target="_blank">Living Art</a>, <a href="https://www.nibrasfoundation.org" target="_blank">Nibras Foundation</a>, <a href="https://codeastro.dev/" target="_blank">Code Astro</a>, and <strong>Sylhet Boat Club Limited</strong>.</li>
+        <li>Contributed to enterprise web platforms: <a href="https://captainaminulhaqueit.com/" target="_blank">Captain Aminul Haque IT</a>, <a href="https://chakrirbajar.vercel.app/" target="_blank">Chakrir Bajar</a>, <a href="https://www.visafarm.com" target="_blank">VisaFarm</a>, <a href="https://grihokormi.com" target="_blank">Grihokormi</a>, <a href="https://alifmarriagemedia.com/" target="_blank">Alif Marriage Media</a>, <a href="https://rnrcommerce.vercel.app/" target="_blank">RnR Commerce</a>, and <a href="https://alif-seeds-frontend.vercel.app/" target="_blank">Alif Agro Seeds</a>.</li>
+        <li>Built modular full-stack applications: <a href="https://hishebghor.vercel.app/" target="_blank">HishebGhor</a>, <a href="https://mango-bar-frontend.vercel.app/" target="_blank">Mango Bar</a>, and <a href="https://hr-frontend-lyart.vercel.app/" target="_blank">HR Management Portal</a>.</li>
+        <li>Optimized database queries and background task queues using Celery and Redis, improving server response times by 30%.</li>
+      </ul>
+    </div>
+
+    <div>
+      <div class="item-header">
+        <div><span class="item-title">Galaxy TV</span> — <span class="item-role">Automation Engineer</span></div>
+        <div class="item-date">April 2026 – August 2026 | Dhaka</div>
+      </div>
+      <ul class="compact-list">
+        <li>Engineered robust Python automation scripts to streamline internal media workflows and eliminate repetitive manual data entry.</li>
+        <li>Automated scheduled data synchronization and reporting pipelines, improving departmental operational efficiency.</li>
+      </ul>
+    </div>
+
+    <div>
+      <div class="item-header">
+        <div><span class="item-title">Somadhan Soft</span> — <span class="item-role">Software Developer Intern</span></div>
+        <div class="item-date">Dhaka, Bangladesh</div>
+      </div>
+      <ul class="compact-list">
+        <li>Contributed to production platforms including <a href="https://www.visafarm.com" target="_blank">VisaFarm</a> and <strong>JobsAlign</strong>.</li>
+        <li>Implemented secure authentication flows, DRF API endpoints, webhook integrations, and responsive React frontend components.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title">Key Projects</div>
+
+    <div>
+      <div class="item-header">
+        <div><span class="item-title">MicroWorkHub</span> — Freelance Marketplace Engine | <a href="https://micro-work-hub.vercel.app/" target="_blank">Live Demo</a></div>
+        <div class="item-date">Django, DRF, React, PostgreSQL, Pandas</div>
+      </div>
+      <p>Engineered an Upwork-style platform featuring job bidding, contract lifecycle management, JWT security, and automated report processing.</p>
+    </div>
+
+    <div>
+      <div class="item-header">
+        <div><span class="item-title">Authentic Furniture</span> — Smart Interior & E-Commerce | <a href="https://authentic-seven-psi.vercel.app/" target="_blank">Live Demo</a></div>
+        <div class="item-date">Django, React.js, Tailwind CSS</div>
+      </div>
+      <p>Developed a full-stack furniture platform with custom algorithms for room layout optimization and dimension matching.</p>
+    </div>
+
+    <div>
+      <div class="item-header">
+        <div><span class="item-title">Captain Aminul Haque IT Institute</span> — LMS Portal | <a href="https://captainaminulhaqueit.com/" target="_blank">Live Demo</a></div>
+        <div class="item-date">Django, DRF, React, WebSockets, Redis</div>
+      </div>
+      <p>Built an interactive LMS featuring live class streaming, secure video delivery, role-based access, and real-time chat.</p>
+    </div>
+
+    <div>
+      <div class="item-header">
+        <div><span class="item-title">Shikkha Batayon (Biddyapath)</span> — EdTech Platform | <a href="https://shikkhabatayon-wqgz.vercel.app/" target="_blank">Live Demo</a></div>
+        <div class="item-date">Django, React, Redis, Celery, Cronjobs</div>
+      </div>
+      <p>Architected an educational portal with automated recurring tasks, real-time student-instructor chat, and integrated payment gateways.</p>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title">Education & Certifications</div>
+    <div class="edu-row">
+      <div><strong>Bachelor of Computer Science and Engineering (CSE)</strong> — University of Scholars</div>
+      <div class="item-date">CGPA: 4.00 (Ongoing)</div>
+    </div>
+    <div class="edu-row">
+      <div><strong>BAMS</strong> — Department of Medicine, University of Dhaka</div>
+      <div class="item-date">Completed</div>
+    </div>
+    <div class="edu-row">
+      <div><strong>CSE Fundamentals Track (2-Year Program)</strong> — Phitron (DSA, OOP, Database Architecture)</div>
+      <div class="item-date">Certified</div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title">Additional Information</div>
+    <p style="font-size: 8pt; color: #334155;">
+      <strong>Languages:</strong> English (Fluent / Professional), Bangla (Native), German (Basic)
+    </p>
+  </section>
+</div>
+
+</body>
+</html>
